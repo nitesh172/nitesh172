@@ -25,10 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh172&show_icons=true&locale=en&layout=compact" alt="nitesh172" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh172&show_icons=true&locale=en" alt="nitesh172" /></p> <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh172&show_icons=true&locale=en" alt="nitesh172" /></p> <br> <br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh172&" alt="nitesh172" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/niteshkumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niteshkumarbaghel55624" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/niteshkumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niteshkumarbaghel55624" /></a></p>
