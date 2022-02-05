@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Redux from Masai School**
 
-- 👨‍💻 All of my projects are available at [https://www.figma.com/community/file/1006095821656678611](https://www.figma.com/community/file/1006095821656678611)
+- 👨‍💻 All of my projects are available at [niteshkumarbaghel.netlify.app](niteshkumarbaghel.netlify.app)
 
 - 💬 Ask me about **CSS, HTMl, JavaScript, Bootstrap, Tailwind**
 
