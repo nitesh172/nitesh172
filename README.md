@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Redux from Masai School**
 
-- 👨‍💻 All of my projects are available at [niteshkumarbaghel.netlify.app](niteshkumarbaghel.netlify.app)
+- 👨‍💻 All of my projects are available at [niteshkumarbaghel.netlify.app](https://niteshkumarbaghel.netlify.app)
 
 - 💬 Ask me about **CSS, HTMl, JavaScript, Bootstrap, Tailwind**
 
