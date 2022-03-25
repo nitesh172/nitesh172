@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nitesh kumar Baghel</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-- 🔭 I’m currently working on [My Portfolio](niteshkumarbaghel.netlify.app)
+- 🔭 I’m currently working on [Student Help Desk Website]
 
-- 🌱 I’m currently learning **React and Redux from Masai School**
+- 🌱 I’m currently learning **Socket.io**
 
 - 👨‍💻 All of my projects are available at [niteshkumarbaghel.netlify.app](https://niteshkumarbaghel.netlify.app)
 
-- 💬 Ask me about **CSS, HTMl, JavaScript, Bootstrap, Tailwind**
+- 💬 Ask me about **CSS, HTMl, JavaScript, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **niteshbaghel172@gmail.com, +917240598521**
 
