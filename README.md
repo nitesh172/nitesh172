@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Socket.io**
 
-- 👨‍💻 All of my projects are available at [niteshkumarbaghel.netlify.app](https://niteshkumarbaghel.netlify.app)
+- 👨‍💻 All of my projects are available at [niteshkumarbaghel.netlify.app](https://niteshkumarbaghel.vercel.app)
 
 - 💬 Ask me about **CSS, HTMl, JavaScript, Node.js, Express.js, MongoDB**
 
